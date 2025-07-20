@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
-//ae
+
 // Função recursiva do Bispo (simples)
 void movimentosBispo(int x, int y, int passoX, int passoY) {
     int novoX = x + passoX;
